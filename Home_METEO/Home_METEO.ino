@@ -11,6 +11,6 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  dp1.displayInt(123);
-  dp2.displayInt(234);
+  dp1.displayTemperatureC(24);
+  dp2.displayHumidity(60);
 }
