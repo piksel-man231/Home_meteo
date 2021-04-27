@@ -6,6 +6,9 @@ Home_meteo
   2 штуки "Quad display troyka module" by Amperka
   "DHT sensor troyka module" by Amperka
  
+Language
+Modified C++ (Wiring)
+
 IDE 
   Arduino IDE
  
